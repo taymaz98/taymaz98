@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taymaz98
-- 👀 I’m interested in Control Engineering
-- 🌱 I’m currently learning Machine learning
+- 👀 I am intrested in vision based navigation
+- 🌱 I’m currently working on vision and navigation
 - 📫 How to reach me taymaznaeimi1998@gmail.com
 
 <!---
