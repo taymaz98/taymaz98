@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taymaz98
-- 👀 I am intrested in vision based navigation
-- 🌱 I’m currently working on vision and navigation
+- 👀 I am Mechatronic Engineer
+- 🌱 I’m currently working on vision and navigation on UAV
 - 📫 How to reach me taymaznaeimi1998@gmail.com
 
 <!---
